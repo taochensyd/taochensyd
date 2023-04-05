@@ -1,7 +1,5 @@
 # Tao Chen (@taochensyd)
 
-![Tao Chen Banner]
-
 👋 Hi there! My name is **Tao Chen**, and I'm a passionate Web and Software Developer from Sydney, Australia. With a keen interest in cutting-edge technologies, I constantly strive to learn and innovate in the ever-evolving world of web and software development.
 
 ## 👀 Interests
