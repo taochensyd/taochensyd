@@ -1,6 +1,6 @@
 # Tao Chen (@taochensyd)
 
-![Tao Chen Banner](https://user-images.githubusercontent.com/your-image-url.jpg)
+![Tao Chen Banner]
 
 👋 Hi there! My name is **Tao Chen**, and I'm a passionate Web and Software Developer from Sydney, Australia. With a keen interest in cutting-edge technologies, I constantly strive to learn and innovate in the ever-evolving world of web and software development.
 
@@ -13,10 +13,14 @@
 
 ## 🌱 Currently Learning
 
-- React JS
-- Node JS & Express
+- ASP.NET C#
+- Java
+- Spring Boot
+- JavaScript
+- React
+- Node JS & Express JS
 
-As a highly motivated individual, I'm always eager to learn and hone my skills in the latest web technologies. Currently, I'm delving into React JS, a widely popular and highly versatile JavaScript library, and exploring the world of back-end development with Node JS and Express.
+As a highly motivated individual, I'm always eager to learn and hone my skills in the latest web technologies. Currently, I'm expanding my knowledge in various technologies such as ASP.NET C#, Java, Spring Boot, JavaScript, React, Node JS, and Express JS.
 
 ## 💞️ Collaboration Opportunities
 
